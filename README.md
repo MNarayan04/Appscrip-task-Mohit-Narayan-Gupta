@@ -1,6 +1,6 @@
 Project Demo : https://648e99873722947deac636f5--sage-dusk-64ff08.netlify.app/ 
 
-public folder consists of - images floder 
+public folder consists of - images floder,favicon.png,index.html,manifest.json 
 
 
 ![Screenshot 2024-04-30 141259](https://github.com/MNarayan04/Appscrip-task-Mohit-Narayan-Gupta/assets/100512104/e77309ee-644c-4270-a5f2-fc089573c365)
